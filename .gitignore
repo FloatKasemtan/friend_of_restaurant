@@ -1,0 +1,3 @@
+initdb/
+pg_data/
+.env

@@ -1,0 +1,20 @@
+# Database connectivity
+psycopg2==2.9.10
+
+# Environment variable loading
+python-dotenv==1.0.0
+
+# Core Python libraries (these are typically included with Python)
+# But listing them here for completeness and version specification
+# decimal - built-in module
+# datetime - built-in module  
+# csv - built-in module
+# os - built-in module
+# sys - built-in module
+# argparse - built-in module
+# typing - built-in module (Python 3.5+)
+
+# Development and testing (optional)
+# pytest==7.4.2
+# black==23.7.0
+# flake8==6.0.0
